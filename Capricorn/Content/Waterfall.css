@@ -1,0 +1,23 @@
+﻿	body	{
+		width:80%;
+		margin:0 auto;
+		background:none repeat scroll 0 0 #F2F0F0;
+	}
+	#photo_wall{
+		width:100%;
+		margin:0 auto;
+		position:relative;
+	}
+	.ablock {display:none;position:absolute;height:auto;background:#fff;text-align:center;}
+	.ablock:hover {border-radius: 5px 5px 5px 5px;
+    box-shadow: -11px 20px 48px rgba(0, 0, 0, 0.5);}
+	#nomore {display:none;text-align:center;}
+	#loading {
+		background: url("indicator_medium.gif") no-repeat scroll 50% 0 transparent;
+		height: 32px;
+		margin: 20px 0;
+		text-align: center;
+		width: 100%;
+		display:none;
+	}
+	a:link { text-decoration: none; color: #333333;} 

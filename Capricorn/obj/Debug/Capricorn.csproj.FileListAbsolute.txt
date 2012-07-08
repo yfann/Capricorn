@@ -1,0 +1,7 @@
+F:\MyGit\Capricorn\Capricorn\bin\Capricorn.dll
+F:\MyGit\Capricorn\Capricorn\bin\Capricorn.pdb
+F:\MyGit\Capricorn\Capricorn\bin\EntityFramework.dll
+F:\MyGit\Capricorn\Capricorn\bin\EntityFramework.xml
+F:\MyGit\Capricorn\Capricorn\obj\Debug\ResolveAssemblyReference.cache
+F:\MyGit\Capricorn\Capricorn\obj\Debug\Capricorn.dll
+F:\MyGit\Capricorn\Capricorn\obj\Debug\Capricorn.pdb
